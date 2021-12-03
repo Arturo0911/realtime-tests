@@ -10,6 +10,7 @@ pynvim = "*"
 pyodbc = "*"
 mysql-connector-python = "*"
 pyserial = "*"
+requests = "*"
 
 [dev-packages]
 
